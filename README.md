@@ -14,6 +14,7 @@ utilizo esse espaço para minha organização e compartilhamento dos meus projet
 
 widneythiagoaugustodasilva@gmail.com
 
+![](https://media1.tenor.com/m/ZARBViZffU4AAAAd/hd-smirk.gif)
 <!--
 **WIDNEYAUGUSTO/WIDNEYAUGUSTO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
