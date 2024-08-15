@@ -1,5 +1,19 @@
 ## Hi there 👋
 
+## Bem vindo ao meu perfil!
+
+meu nome é widney silva
+
+estou estudando no alura
+
+estou me desenvolvendo na linguagem JavaScript
+
+utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos 
+
+## você pode entrar em contato comigo 
+
+widneythiagoaugustodasilva@gmail.com
+
 <!--
 **WIDNEYAUGUSTO/WIDNEYAUGUSTO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
